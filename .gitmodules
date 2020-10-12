@@ -1,9 +1,3 @@
-[submodule "mod/attendance"]
-	path = mod/attendance
-	url = https://github.com/flocko-motion/moodle-mod_attendance
-[submodule "blocks/attendance"]
-	path = blocks/attendance
-	url = https://github.com/danmarsden/moodle-block_attendance
 [submodule "mod/room"]
 	path = mod/room
 	url = https://github.com/leoauri/moodle-mod_room.git
