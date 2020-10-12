@@ -4,3 +4,6 @@
 [submodule "mod/bigbluebuttonbn"]
 	path = mod/bigbluebuttonbn
 	url = https://github.com/blindsidenetworks/moodle-mod_bigbluebuttonbn.git
+[submodule "mod/attendance"]
+	path = mod/attendance
+	url = https://github.com/flocko-motion/moodle-mod_attendance.git
